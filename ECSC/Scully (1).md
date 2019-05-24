@@ -13,7 +13,7 @@ Aucun bruteforce n'est nécessaire
 
 "Notre développeur web n'est pas très doué en matière de sécurité", ça sera donc une vulnérabilité simple (selon moi)
 
-On commence par regarder le code de la page principal, et on voit que le formulaire utilise du POST, et fait appel à une fonction nommé "login()", il y a donc un .js externe.
+On commence par regarder le code de la page principale, et on voit que le formulaire utilise du POST, et fait appel à une fonction nommée "login()", il y a donc un .js externe.
 
 En regardant dans le head, j'ai vu donc un script stocké dans le path "/static/"
 
