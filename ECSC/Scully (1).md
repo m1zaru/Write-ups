@@ -17,7 +17,7 @@ On commence par regarder le code de la page principal, et on voit que le formula
 
 En regardant dans le head, j'ai vu donc un script stocké dans le path "/static/"
 
-<img src="https://imgur.com/q0NUWPQ" />
+<img src="https://i.imgur.com/q0NUWPQ.png" />
 
 En regardant le code JS, on peut voir qu'avec le bon login, il nous donnera le flag.
 
@@ -31,6 +31,6 @@ Essayons donc un auth bypass SQL (http://www.lifeoverpentest.com/2018/03/sql-inj
 
 On se connecte avec notre payload et n'importe quel mdp
 
-<img src="https://imgur.com/6LCc4VF" />
+<img src="https://i.imgur.com/6LCc4VF.png" />
 
 Et voilà, le flag est donc ***ECSC{889b71de2017ca8074f49d3f853950e147591b38}***
