@@ -57,7 +57,6 @@ ls
 
 Très bien, on a réussis à entré; mais aucun shell n'a pop, testons donc d'ajouter un payload à côté.
 
-SuPerpAsSworDaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
 
 ```
