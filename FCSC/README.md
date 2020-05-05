@@ -16,6 +16,7 @@
 ## Web 
 * [EnterTheDungeon - 25 pts](./Web/EnterTheDungeon.md)
 * [Bestiary - 100 pts](./Web/Bestiary.md)
+* [Rainbow Pages 2 - 250 pts](./Web/Rainbow%20Pages%202.md)
 
 
 ## pwn
