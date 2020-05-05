@@ -109,7 +109,7 @@ Et voici mon PHPSESSID: ff57faf06cbde54ebebe806278d5e82f, plus qu'à me rendre s
 
 Voilà, on y est, on voit tout d'abord que tout ce qui est entré dans le champ "?monster" est stocké ici, essayons d'executer du code php !
 
-?monster=<?php phpinfo(); ?>
+> Payload utilisé: ```?monster=<?php phpinfo(); ?>```
 
 <img src="https://img.onii.wtf/i/bvcli.png">
 
