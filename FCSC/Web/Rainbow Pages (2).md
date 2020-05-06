@@ -216,7 +216,7 @@ Et voilà, RainbowPagesV2 flagged ^^
 
 # bonus :
 
-Le script que j'ai utilisé pour automatisé mes requêtes est :
+Le script que j'ai utilisé pour automatiser mes requêtes est :
 
 ```python
 #!/usr/bin/python
