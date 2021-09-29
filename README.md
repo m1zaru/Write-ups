@@ -1,2 +1,2 @@
 # Write-ups
-Write-ups of CTFs
+Writeups of the CTFs I participated in. I will only put the writeups of the challenges I found interesting
